@@ -19,7 +19,7 @@ unstructured
 unstructured[pdf]
 
 python-pptx
-python-magic-bin
+
 
 faiss-cpu
 grandalf 
